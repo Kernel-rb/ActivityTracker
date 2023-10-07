@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="architect/DB.png" alt="Logo" width="200" height="200"/>
+  <img src="architect/DB.png" alt="Logo" width="400" height="400"/>
 </p>
 ### Activity Tracker Application
 
