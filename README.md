@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="architect/DB.png" alt="Logo" width="200" height="200"/>
+</p>
 ### Activity Tracker Application
 
 This application provides a simple graphical user interface (GUI) for tracking various activities and storing them in a SQLite database. It consists of two main components:
